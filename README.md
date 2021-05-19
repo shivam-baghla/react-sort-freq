@@ -2,8 +2,6 @@
 
 This app is build to show the capability of sorting through elements on the basis of frequecy and dipalying it in a standard array representation.
 
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
