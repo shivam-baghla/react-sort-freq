@@ -1,0 +1,27 @@
+.Wrapper{
+  width: max-content;
+  text-align: left;
+  margin: auto;
+}
+.ListWrapper{
+  display: flex;
+  flex-wrap: nowrap;
+  width: max-content;
+  margin: auto;
+}
+
+.Label{
+    font-size: 16px;
+    font-weight: bold;
+    color: #0092ad;
+}
+.ArrayElement{
+  background-color: #0092ad14;
+  width: 25px;
+  text-align: center;
+  line-height: 22px;
+  font-size: 24px;
+  padding: 10px;
+  align-items: stretch;
+  border: 1px solid #0092ad;
+}

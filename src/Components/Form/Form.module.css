@@ -1,0 +1,20 @@
+.FormWrapper{
+margin: 30px;
+}
+.Input{
+  padding: 12px;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #0092ad14;
+  border: 1px solid #0092ad;
+}
+.Button{
+  border-radius: 5px;
+    padding: 12px;
+    font-size: 16px;
+    background: #0092ad;
+    margin: 0px 5px;
+    color: white;
+    border: 1px solid #0092ad;
+    font-weight: bold;
+}
